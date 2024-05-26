@@ -1,4 +1,5 @@
 🏅 Nike Landing Page Project
+
 Welcome to the Nike Landing Page Project repository! This project is a sleek and interactive landing page built using React.js and Tailwind CSS. The website is mobile-responsive and designed to provide an engaging user experience, showcasing key elements of the Nike brand.
 
 🚀 Features
